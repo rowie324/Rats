@@ -1,3 +1,4 @@
+![Drawing 7 (2)](https://github.com/user-attachments/assets/4a970269-4c83-497b-a058-32720c2d473c)
 # Zombie Rats  
 ![zombie-rats](https://github.com/user-attachments/assets/9fd48053-9b05-452e-8673-d0bba2a42bb8)
 ###### by rose pierce
