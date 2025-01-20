@@ -1,6 +1,6 @@
 # Rats  
 ![zombie-rats](https://github.com/user-attachments/assets/9fd48053-9b05-452e-8673-d0bba2a42bb8)
-###### by rose pierce
+###### by rowie324
 
 this layout is my successor to ["Oats"](https://github.com/rowie324/Oats)  
   
