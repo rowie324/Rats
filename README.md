@@ -1,6 +1,4 @@
-# Rats  
-![zombie-rats](https://github.com/user-attachments/assets/9fd48053-9b05-452e-8673-d0bba2a42bb8)
-###### by rowie324
+![ratslayers](https://github.com/user-attachments/assets/715bb32f-281e-476f-88df-4ac27c08b450)
 
 this layout is my successor to ["Oats"](https://github.com/rowie324/Oats)  
   
@@ -22,4 +20,4 @@ I hope my findings are also interesting to those that stumble upon this c:
 ![zombratsoxey](https://github.com/user-attachments/assets/06c7ad65-a5bd-430c-9ffe-7e0ca231526c)
 ###### [courtesy of oxey's playground](https://oxey.dev/playground/index.html)
 
-![Drawing 7 (2)](https://github.com/user-attachments/assets/4a970269-4c83-497b-a058-32720c2d473c)
+![Drawing 7 (2)](https://github.com/user-attachments/assets/4a970269-4c83-497b-a058-32720c2d473c) 
