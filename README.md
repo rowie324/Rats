@@ -1,7 +1,8 @@
 
 ![ratslayers](https://github.com/user-attachments/assets/4782dde7-decc-427f-8b4f-5cf48adda937)
 
-this layout is my successor to ["Oats"](https://github.com/rowie324/Oats)  
+this layout is my successor to ["Oats"](https://github.com/rowie324/Oats) 
+edit: oats has since been updated and is now my preferred layout.
   
 Oats, while statistically looking better, had a few rather significant issues that i failed to notice until attempting to daily drive it.  
 Most notably, the placement of "Y" above the pinky; the letter is just too common to be an upwards stretch on one of the weakest fingers. Secondarily, Having "," and "." on the pinky fingers was sub optimal at best.
